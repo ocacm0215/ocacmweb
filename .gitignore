@@ -192,3 +192,6 @@ ModelManifest.xml
 Properties/
 obj/
 bin/
+*.cs
+*.sln
+*.csproj
